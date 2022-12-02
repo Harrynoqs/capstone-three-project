@@ -248,21 +248,6 @@ If you like this project...
 - I would like to thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) of [Behance](https://www.behance.net/adagio07) for providing us with the amazing mobile [Template](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 - Thanks [Microverse](https://microverse.org) for the material you have provided during my development.
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
