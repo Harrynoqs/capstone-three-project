@@ -1,0 +1,287 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the  correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="header flex"
+  >
+    <div
+      class="logoheader flex"
+    >
+      <div
+        class="logo flex"
+      >
+        <span
+          class="back"
+        >
+          <span
+            class="white"
+          >
+            <img
+              alt="Logo"
+              class="logo"
+              src="bitcoin.png"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="rightData flex"
+    >
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-microphone"
+        />
+      </span>
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-cog"
+        />
+      </span>
+    </div>
+  </header>
+</DocumentFragment>
+`;
+
+exports[`renders the NaV correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="header flex"
+  >
+    <div
+      class="logoheader flex"
+    >
+      <div
+        class="logo flex"
+      >
+        <span
+          class="back"
+        >
+          <span
+            class="white"
+          >
+            <img
+              alt="Logo"
+              class="logo"
+              src="bitcoin.png"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="rightData flex"
+    >
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-microphone"
+        />
+      </span>
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-cog"
+        />
+      </span>
+    </div>
+  </header>
+</DocumentFragment>
+`;
+
+exports[`renders the NavBa correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="header flex"
+  >
+    <div
+      class="logoheader flex"
+    >
+      <div
+        class="logo flex"
+      >
+        <span
+          class="back"
+        >
+          <span
+            class="white"
+          >
+            <img
+              alt="Logo"
+              class="logo"
+              src="bitcoin.png"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="rightData flex"
+    >
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-microphone"
+        />
+      </span>
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-cog"
+        />
+      </span>
+    </div>
+  </header>
+</DocumentFragment>
+`;
+
+exports[`renders the NavBar correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="header flex"
+  >
+    <div
+      class="logoheader flex"
+    >
+      <div
+        class="logo flex"
+      >
+        <span
+          class="back"
+        >
+          <span
+            class="white"
+          >
+            <img
+              alt="Logo"
+              class="logo"
+              src="bitcoin.png"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="rightData flex"
+    >
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-microphone"
+        />
+      </span>
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-cog"
+        />
+      </span>
+    </div>
+  </header>
+</DocumentFragment>
+`;
+
+exports[`renders the Navar correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="header flex"
+  >
+    <div
+      class="logoheader flex"
+    >
+      <div
+        class="logo flex"
+      >
+        <span
+          class="back"
+        >
+          <span
+            class="white"
+          >
+            <img
+              alt="Logo"
+              class="logo"
+              src="bitcoin.png"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="rightData flex"
+    >
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-microphone"
+        />
+      </span>
+      <span>
+        <i
+          aria-hidden="true"
+          class="fa fa-cog"
+        />
+      </span>
+    </div>
+  </header>
+</DocumentFragment>
+`;
+
+exports[`renders the navbar component 1`] = `
+<DocumentFragment>
+  <header
+    class="header flex"
+  >
+    <div
+      class="logo-header flex"
+    >
+      <div
+        class="logo flex"
+      >
+        <span
+          class="back"
+        >
+          <span
+            class="back-txt white"
+          >
+            <img
+              alt="Logo"
+              class="logo"
+              src="logo_crypto.png"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="right-side flex"
+    >
+      <span
+        class="audio"
+      >
+        <i
+          aria-hidden="true"
+          class="fa fa-microphone"
+        />
+      </span>
+      <span
+        class="settings"
+      >
+        <i
+          aria-hidden="true"
+          class="fa fa-cog"
+        />
+      </span>
+    </div>
+  </header>
+</DocumentFragment>
+`;
+
+exports[`renders the navbar correctly 1`] = `
+<DocumentFragment>
+  <navbar />
+</DocumentFragment>
+`;
